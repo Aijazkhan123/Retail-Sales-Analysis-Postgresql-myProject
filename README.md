@@ -234,6 +234,7 @@ ORDER BY total_orders DESC;
 ```
 
 Conclusion
+
 Cleaning the retail_sales dataset and analyzing it across time, product categories, customer demographics, and operational shifts converts raw point-of-sale records into actionable business decisions across merchandising, staffing, inventory planning, and customer retention.
 
 ---
